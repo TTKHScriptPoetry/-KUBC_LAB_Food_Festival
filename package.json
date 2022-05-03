@@ -1,0 +1,25 @@
+{
+  "name": "kubc_lab_food_festival",
+  "version": "1.0.0",
+  "description": "PWA oriented web app",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TTKHScriptPoetry/KUBC_LAB_Food_Festival.git"
+  },
+  "keywords": [
+    "Express",
+    "Node.js",
+    "PWA",
+    "webpack"
+  ],
+  "author": "NA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TTKHScriptPoetry/KUBC_LAB_Food_Festival/issues"
+  },
+  "homepage": "https://github.com/TTKHScriptPoetry/KUBC_LAB_Food_Festival#readme"
+}
