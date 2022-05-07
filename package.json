@@ -2,7 +2,7 @@
   "name": "kubc_lab_food_festival",
   "version": "1.0.0",
   "description": "PWA oriented web app",
-  "main": "server.js",
+  "main": "assets/js/script.js",
   "scripts": {
     "test": "node index.js",
     "start:dev": "webpack-dev-server",
@@ -27,17 +27,16 @@
   "homepage": "https://github.com/TTKHScriptPoetry/KUBC_LAB_Food_Festival#readme",
   "devDependencies": {
     "file-loader": "^6.2.0",
-    "webpack": "^5.72.0",
+    "webpack": "^4.46.0",
     "webpack-bundle-analyzer": "^4.5.0",
     "webpack-cli": "^4.9.2",
-    "webpack-dev-server": "^4.9.0",
-    "webpack-pwa-manifest": "^4.3.0"
+    "webpack-dev-server": "^4.9.0"
   },
   "dependencies": {
     "bootstrap": "^4.3.1",
     "image-webpack-loader": "^8.1.0",
     "jquery": "^3.6.0",
     "popper.js": "^1.16.0",
-    "save": "^2.5.0"
+    "webpack-pwa-manifest": "^4.3.0"
   }
 }
